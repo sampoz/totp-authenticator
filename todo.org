@@ -1,0 +1,9 @@
+* Todo
+** TODO Create keystore
+** TODO Encrypt keystore with gpg
+** TODO Add a way to add topt-secret to keystore
+** TODO Add a way to decrypt keystore
+** TODO Load secrets from keystore
+** TODO Show all totp passwords
+** TODO Refresh all passwords every 30s
+** TODO Draw a nice indicator of remaining time before next refresh
