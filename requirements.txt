@@ -1,2 +1,3 @@
-curses
+urwid
 pyoath-toolkit
+python-gnupg
