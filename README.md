@@ -1,4 +1,8 @@
-# Totp-authenticator
+# Totp-authenticator (WIP)
+
+I found a
+[totp-extension to pass](https://github.com/tadfisher/pass-otp#readme),
+so work on this project is suspendend.
 
 A google-authenticator like Time-based One Time Password authenticator
 written with python3, curses and pyoath-toolkit
